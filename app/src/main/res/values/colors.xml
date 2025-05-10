@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white20">#33FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#0B0D25</color>
+    <color name="colorPrimaryDark">#070A1A</color>
+    <color name="colorAccent">#FFD700</color>
+    <color name="background_dark_blue">#07111F</color>
+    <color name="background_input">#1F1F1F</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#88FFFFFF</color>
+    <color name="text_link">#FFD700</color>
+    <color name="text_button">#FFFFFF</color>
+    <color name="gradient_start">#FFD700</color>
+    <color name="gradient_end">#FFA500</color>
+    <color name="input_border">#444444</color>
+    <color name="ripple_effect">#33FFFFFF</color>
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="yellowLight">#FFDD15</color>
+    <color name="white_translucent_50">#88FFFFFF</color>
+    <color name="black_translucent_70">#B3000000</color>
+
+</resources>
