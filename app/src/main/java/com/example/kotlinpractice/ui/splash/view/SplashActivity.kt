@@ -16,7 +16,6 @@ class SplashActivity : BaseActivity<SplashScreenBinding, SplashViewModel>(
     override fun onCreate() {
         super.onCreate()
         binding.tvSplash.text = "Business Club"
-
         binding.root.postDelayed({
             startActivity(Intent(this, LoginActivity::class.java))
             finish()
